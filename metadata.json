@@ -1,0 +1,6 @@
+{
+  "name": "SyncBoard",
+  "description": "Real-time collaborative online whiteboard with instant class codes, live multi-user drawing, and teacher controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
