@@ -4,6 +4,17 @@ A browser-based collaborative whiteboard for classrooms and study groups. Create
 
 > Student project exploring real-time web applications, collaborative interfaces, and AI-assisted development.
 
+## 📸 Screenshots
+
+### Main interface
+![Sync-Board screenshot 1](Screenshot_2026-10-13-11-31-54-67_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
+### Collaboration view
+![Sync-Board screenshot 2](Screenshot_2026-10-13-11-32-33-36_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
+### Additional interface view
+![Sync-Board screenshot 3](Screenshot_2026-10-13-11-32-45-35_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 ## ✨ Features
 
 - **Quick room sharing:** create or join a classroom with a short alphanumeric code.
@@ -99,7 +110,6 @@ When the server is running, visit `/api/health` on the same host and port to rec
 
 - Add automated tests for room creation, joining, and collaboration events.
 - Add deployment instructions and a verified live demo link.
-- Add screenshots or a short demo recording.
 - Review production security and error handling before wider use.
 
 ## 👨‍💻 Author
